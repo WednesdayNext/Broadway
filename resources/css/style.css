@@ -1,0 +1,47 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1 {
+font-size: 70px;
+font-weight: bold;
+color: white;
+}
+
+a {
+  font-size: 18px;
+  color: white;
+}
+/* gilt für a im gesamten Index */
+
+h2 {
+  font-size: 32px
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+#Designed {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.Ende {
+  text-align: left;
+  background-color: dimgray;
+  display: inline;
+}
+
+h4 {
+  font-size: 11px;
+  color: green;
+}
