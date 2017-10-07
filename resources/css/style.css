@@ -37,6 +37,7 @@ p {
   font-size: 23px;
   font-weight: bold;
   color: white;
+  background-image: url('../img/the-flatiron-building.png')
 }
 
 .End {
@@ -44,7 +45,7 @@ p {
   background-color: dimgray;
 }
 
-h4 {
+.End p {
   font-size: 11px;
   color: white;
 }
